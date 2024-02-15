@@ -1,0 +1,44 @@
+{
+    "favDestinations":  [
+        {
+            "id": 1,
+            "countryName": "Germany",
+            "image": "file:///Users/yurireimers/Desktop/Germany.png",
+            "localFood": "Schnitzel",
+            "localDrinks": "pilsner",
+            "cityAttractions": "Oktoberfest"
+        },
+        {
+            "id": 2,
+            "countryName": "Italy",
+            "image": "file:///Users/yurireimers/Desktop/Capri.png",
+            "localFood": "Saghetti Bolognes",
+            "localDrinks": "Negroni",
+            "cityAttractions": "Capri"
+        },
+        {
+            "id": 3,
+            "countryName": "Spain",
+            "image": "file:///Users/yurireimers/Desktop/Barcelona.png",
+            "localFood": "Paella",
+            "localDrinks": "Leche merengada",
+            "cityAttractions": "Park Guell" 
+        },
+        {
+            "id": 4,
+            "countryName": "Thailand",
+            "image": "file:///Users/yurireimers/Desktop/Phuket.png",
+            "localFood": "Pad Thai",
+            "localDrinks": "Cha Yen",
+            "cityAttractions": "Phi Phi Island"
+        },
+        {
+            "id": 5,
+            "countryName": "Turkey",
+            "image": "file:///Users/yurireimers/Desktop/Capadocia.png",
+            "localFood": "Butter Steak",
+            "localDrinks": "Raki",
+            "cityAttractions": "Underground City"
+        }
+    ]
+}

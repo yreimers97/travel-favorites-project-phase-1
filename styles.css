@@ -1,0 +1,16 @@
+header{
+    text-align: center;
+    font-size: 50px;
+    color: tan;
+}
+body{
+    background-color: aqua;
+}
+
+#travel-guide{
+    text-align: center;
+}
+
+#country-details{
+    text-align: center;
+}
