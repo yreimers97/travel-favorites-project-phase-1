@@ -3,7 +3,7 @@
         {
             "id": 1,
             "countryName": "Germany",
-            "image": "file:///Users/yurireimers/Desktop/Germany.png",
+            "image": "file:///Users/yurireimers/Desktop/Germany.jpeg",
             "localFood": "Schnitzel",
             "localDrinks": "pilsner",
             "cityAttractions": "Oktoberfest"
@@ -11,7 +11,7 @@
         {
             "id": 2,
             "countryName": "Italy",
-            "image": "file:///Users/yurireimers/Desktop/Capri.png",
+            "image": "file:///Users/yurireimers/Desktop/Italy.jpeg",
             "localFood": "Saghetti Bolognes",
             "localDrinks": "Negroni",
             "cityAttractions": "Capri"
@@ -19,7 +19,7 @@
         {
             "id": 3,
             "countryName": "Spain",
-            "image": "file:///Users/yurireimers/Desktop/Barcelona.png",
+            "image": "file:///Users/yurireimers/Desktop/Spain.jpeg",
             "localFood": "Paella",
             "localDrinks": "Leche merengada",
             "cityAttractions": "Park Guell" 
@@ -27,7 +27,7 @@
         {
             "id": 4,
             "countryName": "Thailand",
-            "image": "file:///Users/yurireimers/Desktop/Phuket.png",
+            "image": "file:///Users/yurireimers/Desktop/Thailand.jpeg",
             "localFood": "Pad Thai",
             "localDrinks": "Cha Yen",
             "cityAttractions": "Phi Phi Island"
@@ -35,7 +35,7 @@
         {
             "id": 5,
             "countryName": "Turkey",
-            "image": "file:///Users/yurireimers/Desktop/Capadocia.png",
+            "image": "file:///Users/yurireimers/Desktop/Turkey.jpeg",
             "localFood": "Butter Steak",
             "localDrinks": "Raki",
             "cityAttractions": "Underground City"

@@ -5,8 +5,9 @@
     .then(favDestination => {
         favDestination.forEach(travel => {
         const imgElement = document.createElement('img')
-        imgElement.src = travel.name
         imgElement.src = travel.image
+        const textElement = document.createElement("span")
+        textElement.textContent = travel.name
         myPlaces.appendChild(imgElement)
         })
     })
@@ -16,21 +17,22 @@
 //     event.
 //  }
 
-function countriesSubmit() {
+function countriesSubmit(travel) {
     const countryForm = document.getElementById('user-submit')
     countryForm.addEventListener('submit', (event) => {
     event.preventDefault()
     const submitText = document.createElement('name')
-    submitText.id = submit.name
+    submitText.id = travel.name
     })
 }
 
 
- function main() {
+ function getDetails() {
     addCountries()
+    countriesSubmit()
  }
 
- main()
+ getDetails()
 
 //     const nameOfCountry = document.createElementById('country-details')
 //     nameOfCountry.src = travel.name
